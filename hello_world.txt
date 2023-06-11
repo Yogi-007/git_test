@@ -1,1 +1,0 @@
-this is a text file created using cli touch command at the local repos but then edited this data inside it using code command vs code saved and pushed to git hub using git add ., "sql" and git push commands
